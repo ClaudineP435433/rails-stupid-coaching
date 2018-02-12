@@ -1,0 +1,24 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  font-family: Arial;
+}
+
+.coaching {
+  border-left: 4px solid rgb(221, 221, 221);
+  padding-left: 20px;
+}
+
+.coaching.answer {
+ background-color: rgb(255, 254, 228);
+}
+
+.link {
+  text-decoration: none;
+}
+
+h3 {
+  font-weight: lighter;
+}
